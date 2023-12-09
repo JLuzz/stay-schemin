@@ -1,0 +1,11 @@
+{
+  "name": "@jlz/stay-schemin",
+  "version": "0.0.1",
+  "description": "Re-use your json schemas as PropTypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremy luzzi",
+  "license": "MIT"
+}
