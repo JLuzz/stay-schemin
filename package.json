@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel src/index.js -o dist/index.js",
     "cs": "changeset",
-    "release": "pnpm run build && changeset version && changeset publish",
+    "release": "pnpm run build && changeset publish",
     "clean": "rimraf dist",
     "test": "jest"
   },
