@@ -1,5 +1,5 @@
 {
-  "name": "@jlz/stay-schemin",
+  "name": "stay-schemin",
   "version": "1.0.0",
   "description": "Re-use your json schemas as PropTypes",
   "main": "dist/index.js",
